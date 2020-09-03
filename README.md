@@ -1,0 +1,2 @@
+# Classifying-Images-with-Pre-built-ML-Models-using-Cloud-Vision-API-and-AutoML
+In this lab you will upload images to Cloud Storage and use them to train a custom model to recognize different types of clouds (cumulus, cumulonimbus, etc.).  What you learn In this lab, you learn how to:  Upload a labeled dataset to Google Cloud Storage and connect it to AutoML Vision with a CSV label file.  Train a model with AutoML Vision and evaluate its accuracy.  Generate predictions on your trained model.
